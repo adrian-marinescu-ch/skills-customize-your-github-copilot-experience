@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-debugging",
+      "title": "Testing and Debugging",
+      "description": "Writing tests, using assertions, and fixing broken Python code.",
+      "path": "assignments/testing-debugging",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
